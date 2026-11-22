@@ -1,0 +1,44 @@
+# Compiled class files
+*.class
+target/
+
+# Maven
+.mvn/
+!.mvn/wrapper/
+mvnw
+mvnw.cmd
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+.vscode/
+*.code-workspace
+.factorypath
+bin/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Config with secrets — NEVER commit
+config.properties
+
+# Logs
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+target/
+apache-maven-3.9.6/
+maven.zip
+
+
